@@ -1,0 +1,285 @@
+{
+  "products": [
+    {
+      "id": 1243,
+      "name": "Scandinavian Chair MNC019",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 3500
+          }
+        }
+      },
+      "sku": "SKU109115019",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      }
+    },
+    {
+      "id": 1322,
+      "name": "Dark wood chair",
+      "review_count": 1,
+      "rating_summary": 80,
+      "type_id": "simple",
+      "created_at": "2022-02-24 07:18:54",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 6500
+          }
+        }
+      },
+      "sku": "101009336",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/2/7/273050473_474421740992161_273280394404754616_n.jpg"
+      }
+    },
+    {
+      "id": 1233,
+      "name": "Niseko Chair MNC013",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-02-11 12:06:39",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 6700
+          }
+        }
+      },
+      "sku": "SKU33014255",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      }
+    },
+    {
+      "id": 1201,
+      "name": "Copenhagen Chair MNC006 \u0e44\u0e21\u0e49\u0e22\u0e32\u0e07 (48x51x101 Cm.) \u0e2a\u0e35\u0e2a\u0e31\u0e01",
+      "review_count": 1,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2021-10-26 11:57:15",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 4500
+          }
+        }
+      },
+      "sku": "test-product-1",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      }
+    },
+    {
+      "id": 1211,
+      "name": "Copenhagen Chair MNC006 ",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-01-20 10:59:47",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 6000
+          }
+        }
+      },
+      "sku": "10190802",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/c/o/copenhagen_chair_mnc006__sku10190802_2900.jpg"
+      }
+    },
+    {
+      "id": 1323,
+      "name": "\u0e40\u0e01\u0e49\u0e32\u0e2d\u0e35\u0e49\u0e21\u0e49\u0e32\u0e19\u0e31\u0e48\u0e07\u0e22\u0e32\u0e27 MNB002",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-02-24 07:21:10",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 12500
+          }
+        }
+      },
+      "sku": "002555111",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/2/7/271819625_461990455568623_1388354704761272678_n.jpg"
+      }
+    },
+    {
+      "id": 1230,
+      "name": "Copenhagen Chair MNC006",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-02-11 12:06:39",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 6200
+          }
+        }
+      },
+      "sku": "SKU266001019",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      }
+    },
+    {
+      "id": 1229,
+      "name": "Copenhagen Chair MNC006 \u0e2a\u0e35\u0e44\u0e21\u0e49\u0e2a\u0e31\u0e01",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-02-11 12:06:39",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 2900
+          }
+        }
+      },
+      "sku": "SKU10190802",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      },
+      "special_price": 1000
+    },
+    {
+      "id": 1224,
+      "name": "Sample Product3",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-01-31 13:53:12",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 1000
+          }
+        }
+      },
+      "sku": "Sample_Product3",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/c/a/cat1_2.jpeg"
+      }
+    },
+    {
+      "id": 1231,
+      "name": "Lyon Ash Wood Chair MNC007",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-02-11 12:06:39",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 5700
+          }
+        }
+      },
+      "sku": "SKU10185186",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      }
+    },
+    {
+      "id": 1216,
+      "name": "Office Chair",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-01-21 08:10:53",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 7900
+          }
+        }
+      },
+      "sku": "Office Chair",
+      "small_image": {
+        "url": "https://mdc-dev.housenofive.com/static/version1649066912/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+      }
+    },
+    {
+      "id": 1205,
+      "name": "table-with-chair",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "bundle",
+      "created_at": "2021-10-28 11:10:05",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 0
+          }
+        }
+      },
+      "sku": "table-with-chair",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      }
+    },
+    {
+      "id": 1234,
+      "name": "Niseko Chair Oak Wood MNC011",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "configurable",
+      "created_at": "2022-02-11 12:06:39",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 5700
+          }
+        }
+      },
+      "sku": "SKU10261556",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/m/n/mnc006-teak-cv__1200x1200.jpeg"
+      },
+      "special_price": 5500
+    },
+    {
+      "id": 1222,
+      "name": "Sample Product2.",
+      "review_count": 0,
+      "rating_summary": 0,
+      "type_id": "simple",
+      "created_at": "2022-01-31 13:36:03",
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "currency": "THB",
+            "value": 1000
+          }
+        }
+      },
+      "sku": "Sample_Product2",
+      "small_image": {
+        "url": "https://media-dev.housenofive.com/media/catalog/product/cache/44417b6cb0c3d84876c2031b5d1459cb/c/a/cat1.jpeg"
+      }
+    }
+  ]
+}
